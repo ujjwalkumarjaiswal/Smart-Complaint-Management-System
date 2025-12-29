@@ -28,7 +28,7 @@ File Storage: Local storage
 Notifications: Nodemailer
 
 
-smart-complaint-system/
+Smart-Complaint-Management-System/
 │
 ├── backend/
 │   ├── controllers/        
