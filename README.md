@@ -57,16 +57,7 @@ Smart-Complaint-Management-System/
 │   │   └── db.js
 │   │
 │   ├── server.js          
-│   └── .env                
-│
-├── frontend/               
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── App.js
-│   └── package.json
+│   └── .env              
 │
 ├── .gitignore
 ├── package.json
-└── .env
